@@ -23,7 +23,7 @@ public static ArrayList<Product> products = new ArrayList<Product>();
 		return product;	
 	}
 	public static void initStoreItem() {
-		String [] productName = {"A", "B"};
+		String [] productName = {"Lung Cancer", "Liver Cancer"};
 		double [] productPrice = {40.00d, 20.00d};
 		int [] productStock = {2, 5};
 		
